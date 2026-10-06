@@ -221,3 +221,30 @@
 * **Bẫy lớn nhất: KHÔNG BAO GIỜ CÓ `arrive to`!**
   * Đến địa điểm cụ thể: **arrive AT** (*arrive at the airport, arrive at the station*).
   * Đến thành phố / đất nước: **arrive IN** (*arrive in Hanoi, arrive in Vietnam*).
+
+
+---
+
+## 💻 Phần 6: Tình Huống Giao Tiếp Kỹ Thuật Chiều Nay (Workplace & Tech English)
+
+### 1. Đoạn hội thoại thực tế (Afternoon Incident):
+> **Q: How did your afternoon go?**  
+> *"My afternoon did not go well. I tried to build and deploy some new Docker images, but I ran into some issues. Server 108 went down, and the read/write speed was very slow. So right now, I still cannot deploy new versions."*
+
+> **Q: Are you going to stay late to fix this?**  
+> *"No, I'm not going to stay late to fix it; that is not my responsibility. I notified the system team, and I am waiting for their response. After that, once everything is back to normal, I will redeploy and check the changes."*
+
+---
+
+### 2. Từ vựng & Cụm từ chuyên môn cần nhớ (Tech Collocations):
+
+| Cụm từ | Ý nghĩa | Ví dụ |
+| :--- | :--- | :--- |
+| **run into some issues** | Gặp phải vài vấn đề / sự cố | *I ran into some issues while building the image.* |
+| **server went down / crashed** | Server bị sập / bị treo | *Server 108 went down unexpectedly.* |
+| **read/write speed** | Tốc độ đọc / ghi (Disk I/O) | *The read/write speed was very slow.* |
+| **stay late to fix it** | Ở lại muộn để sửa | *I don't want to stay late to fix it.* |
+| **not my responsibility** | Không phải trách nhiệm của tôi | *That is not my responsibility.* |
+| **notify the system team** | Thông báo cho team hệ thống (không có 'to') | *I notified the system team immediately.* |
+| **wait for their response** | Chờ phản hồi của họ (nhớ có 'for') | *I am waiting for their response.* |
+| **back to normal** | Trở lại bình thường | *Once everything is back to normal, I will test it.* |
