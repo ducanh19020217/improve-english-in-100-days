@@ -248,3 +248,28 @@
 | **notify the system team** | Thông báo cho team hệ thống (không có 'to') | *I notified the system team immediately.* |
 | **wait for their response** | Chờ phản hồi của họ (nhớ có 'for') | *I am waiting for their response.* |
 | **back to normal** | Trở lại bình thường | *Once everything is back to normal, I will test it.* |
+
+
+---
+
+## 🌙 Phần 7: Thói Quen Buổi Tối & Gia Đình (Evening Routine & Workout)
+
+### 1. Đoạn văn hoàn chỉnh (Your Evening Routine):
+> *"Unfortunately, the traffic is heavy in the afternoon. It takes about an hour to get back home. I will also go to the market to buy some vegetables, eggs, and milk. I will cook pork rib and squash soup and braised fish for dinner. While cooking, I do some exercises like bench presses, dumbbells, and bicep curls. My wife gets home late, so she has dinner at work. I have dinner at 9 PM. After that, I clean up the house and wash the dishes. I take a shower at 10 PM. Before going to bed, I read a book and talk with my wife about our day."*
+
+---
+
+### 2. Từ vựng & Cụm từ hay cần nhớ (Evening & Fitness Chunks):
+
+| Cụm từ | Ý nghĩa | Ví dụ |
+| :--- | :--- | :--- |
+| **traffic is heavy** | Kẹt xe, đường đông đúc | *Traffic is always heavy during rush hour.* |
+| **It takes [time] to get home** | Mất bao nhiêu lâu để về nhà (không có 'to' trước home) | *It takes about an hour to get back home.* |
+| **pork rib and squash soup** | Canh sườn bí đỏ | *I cooked pork rib and squash soup.* |
+| **braised fish** | Cá kho | *Braised fish goes so well with rice.* |
+| **bench presses / bicep curls** | Đẩy ngực / cuốn tạ bắp tay trước | *I did three sets of bench presses.* |
+| **dumbbells** | Quả tạ đơn (số nhiều) | *I bought a new pair of dumbbells.* |
+| **clean up the house** | Dọn dẹp nhà cửa | *I usually clean up the house after dinner.* |
+| **wash the dishes** | Rửa bát | *It's my turn to wash the dishes.* |
+| **take a shower** | Tắm vòi sen | *I take a warm shower before going to bed.* |
+| **talk about our day** | Tâm sự về một ngày đã qua | *We like to talk about our day before sleeping.* |
