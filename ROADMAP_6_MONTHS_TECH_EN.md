@@ -127,7 +127,7 @@ Agile & Async Mastery         Deep Tech & Architecture         Product & Leaders
 
 ## ⚡ 3. CƠ CHẾ ĐỒNG HÀNH MỖI NGÀY ("BÁM SÁT THỰC CHIẾN")
 
-Để đạt được mục tiêu trong 6 tháng, chúng ta sẽ áp dụng **Chu trình 30 phút mỗi ngày** trực tiếp trong workspace này:
+Để đạt được mục tiêu trong 6 tháng, chúng ta sẽ áp dụng **Chu trình 30 phút mỗi ngày** trực tiếp trong workspace này. Mỗi ngày học **10 từ hoặc cụm từ**, đồng thời luyện đọc thành tiếng và hội thoại tự nhiên:
 
 ```
                   ┌───────────────────────────────────────────────┐
@@ -137,23 +137,25 @@ Agile & Async Mastery         Deep Tech & Architecture         Product & Leaders
         ┌─────────────────────────────────┼─────────────────────────────────┐
         ▼                                 ▼                                 ▼
    [BƯỚC 1: INPUT THẬT]          [BƯỚC 2: BẠN OUTPUT]           [BƯỚC 3: AI COACH REVIEW]
-   1 Tình huống Tech cụ thể      Tự nói (thu âm) hoặc tự        Phân tích ngữ pháp, từ vựng
-   (Jira, Incident, Standup,     gõ câu trả lời theo phản       Tech, cấp 3 level diễn đạt,
-   PR debate, Chat Slack).       xạ tự nhiên (cho phép sai).    và bài tập cơ miệng/nói.
+   1 tình huống Tech cụ thể      Dùng 10 từ/cụm mới để          Sửa lỗi nổi bật, gợi ý cách
+   + 10 từ/cụm theo chủ đề.      nói hoặc viết câu trả lời;     diễn đạt tự nhiên và luyện
+                                 luyện đọc và hội thoại.         phát âm theo cụm.
 ```
 
 ### Cách thức hoạt động giữa Tôi và Bạn:
 1. **Mỗi buổi học:** Tôi sẽ mở ra **một tình huống mô phỏng thực tế** tương ứng với lộ trình.
-2. **Bạn phản hồi:** Bạn viết câu trả lời hoặc gõ lại nội dung bạn đã nói.
-3. **Phân tích chuyên sâu:**
+2. **Từ vựng hằng ngày:** Học **10 từ/cụm từ theo chủ đề**, mỗi cụm có nghĩa và ví dụ ngắn. Ưu tiên collocations và câu dùng được trong công việc thay vì học từ rời.
+3. **Bạn phản hồi:** Dùng một số cụm vừa học để viết câu trả lời hoặc gõ lại nội dung bạn đã nói. Nếu quên từ, cứ diễn đạt bằng từ đơn giản hoặc chèn tiếng Việt; sau đó cùng tìm cách nói tự nhiên hơn.
+4. **Phân tích chuyên sâu:**
    * **Grammar & Precision:** Sửa các lỗi cơ bản và lỗi dùng từ dễ gây hiểu nhầm trong ngành IT.
    * **3 Cấp độ nâng cấp:**
      * *Level 1 (Clear):* Chuẩn ngữ pháp, dễ hiểu.
      * *Level 2 (Professional):* Văn phong chuẩn kỹ sư phần mềm quốc tế.
      * *Level 3 (Leadership/Executive):* Văn phong Lead/PM sắc bén, ngoại giao và thuyết phục.
-   * **Tech Chunks:** Cung cấp 10–15 cụm từ "bản xứ" của dân Tech cho chủ đề đó.
-   * **Speaking Drills:** Chỉ dẫn ngữ điệu, nối âm, âm đuôi (*ending sounds*) để bạn đọc to thành tiếng.
-4. **Lưu vết:** Mọi ngày học đều được ghi vào file `Day_XX.md` để bạn theo dõi sự tiến bộ rõ rệt qua từng ngày.
+   * **10 từ/cụm từ:** Giải thích nghĩa, cách kết hợp và ví dụ; ôn lại cụm cũ trong hội thoại.
+   * **Luyện đọc:** Đọc to câu mẫu hoặc đoạn ngắn, chú ý trọng âm, nối âm và âm cuối (*ending sounds*).
+   * **Hội thoại tự nhiên:** Role-play theo tình huống Tech; ưu tiên phản hồi qua lại tự nhiên thay vì chỉ học thuộc bài mẫu.
+5. **Lưu vết:** Mỗi ngày học được ghi vào file `Day_XX.md` để theo dõi tiến bộ và ôn lại từ/cụm đã học.
 
 ---
 
